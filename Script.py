@@ -111,7 +111,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/TonY_StarK1992>Tᴏɴʏ Sᴛᴀʀᴋ⚡️</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/TonyStark_xSpidy>Tᴏɴʏ Sᴛᴀʀᴋ⚡️</a></b>
   
  <b>✯ Join here : <a href=https://t.me/TN_Uploadz>☢Join my updateds☢</a></b> 
   
@@ -706,13 +706,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/TonY_StarK1992'>Tᴏɴʏ Sᴛᴀʀᴋ⚡️</a>
-
--Dev 2 <a href='https://t.me/vjbots_bot'>VJ</a>
-
--Dev 3 <a href='https://t.me/vj_botz>VJ Botz</a>
-
-- Dev 4 <a href='https://t.me/vj_bots'>TEAM VJ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/TonyStark_xSpidy'>Tᴏɴʏ Sᴛᴀʀᴋ⚡️</a>
 """
 
     RENAME_TXT = """
