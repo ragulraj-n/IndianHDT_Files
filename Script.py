@@ -78,7 +78,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/TN_Uploadz)</code>
+<code>[Button Text](buttonurl:https://t.me/indianHDT)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -113,7 +113,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 my features Stay here new features coming soon...  
  <b>✯ Maintained by : <a href=https://t.me/TonyStark_xSpidy>Tᴏɴʏ Sᴛᴀʀᴋ⚡️</a></b>
   
- <b>✯ Join here : <a href=https://t.me/TN_Uploadz>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/indianHDT>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -232,7 +232,7 @@ Nᴀᴍᴇ - {}"""
 
 <b> Size ⚙️: {file_size}</b>
 
-<b>Jᴏɪɴ ɴᴏᴡ - <a href=https://t.me/TN_Uploadz >TN_Uᴘʟᴏᴀᴅᴢ</a></b>
+<b>Jᴏɪɴ ɴᴏᴡ - <a href=https://t.me/indianHDT >Indian HDT</a></b>
 <b>Cʀᴇᴀᴛᴏʀ - <a href=https://t.me/TonyStark_xSpidy >Tᴏɴʏ Sᴛᴀʀᴋ⚡️</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
